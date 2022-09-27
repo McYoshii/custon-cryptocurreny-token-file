@@ -1,8 +1,6 @@
 Hello, and thank you for your purchase! This README.txt file will pose as a set of instructions for the attached gcoach.sol file. This is the contract code that you will use to create and deploy your token. Please note, that deviating from any of these steps may result in bugs/problems with your token
 
 
-NOTE: instructions w/ photos included are provided on the SolidityGeek webpage
-
 
 
 ***INSTRUCTIONS***
@@ -51,4 +49,4 @@ NOTE: instructions w/ photos included are provided on the SolidityGeek webpage
 
 22. On the BscScan page, once your contract is published, copy the link on the line titled “Interacted With (To)”- as this is your tokens contract address.
 
-23. Congratulations! You're done programming your code! This final product should be fully functional to your preferences, and the contract will be verifiable on BscScan without any issues. Once you do this, you should be able to upload a logo for your token and manage it on BscScan without issue! Once again,, thank you for your purchase, and I hope you are satisfied! Cheers! :)
+23. Congratulations! You're done programming your code! This final product should be fully functional to your preferences, and the contract will be verifiable on BscScan without any issues. Once you do this, you should be able to upload a logo for your token and manage it on BscScan without issue!I hope you are satisfied! Cheers! :)
